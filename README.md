@@ -2,12 +2,12 @@
 
 下载：
 KNX系统：
-1.[安卓手机版:OHOSURE](http://gateway-update.oss-cn-shanghai.aliyuncs.com/app-update/HuiXue_Phone_1.5.apk).
+1.[安卓手机版:OHOSURE](http://gateway-update.oss-cn-shanghai.aliyuncs.com/app-update/HuiXue_Phone_1.5.apk.1).
 2.[安卓PAD版:OHOSURE](https://guides.github.com/features/mastering-markdown/).
-3.[IOS手机版:OHOSURE](http://gateway-update.oss-cn-shanghai.aliyuncs.com/app-update/HuiXue_Phone_1.5.apk).
+3.[IOS手机版:OHOSURE](http://gateway-update.oss-cn-shanghai.aliyuncs.com/app-update/HuiXue_Phone_1.5.apk.1).
 Zigbee系统:
-1.[安卓手机版:荟学智能](http://gateway-update.oss-cn-shanghai.aliyuncs.com/app-update/HuiXue_Phone_1.5.apk).
-2.[iOS手机版:荟学智能](http://gateway-update.oss-cn-shanghai.aliyuncs.com/app-update/HuiXue_Phone_1.5.apk).
+1.[安卓手机版:荟学智能](http://gateway-update.oss-cn-shanghai.aliyuncs.com/app-update/HuiXue_Phone_1.5.apk.1).
+2.[iOS手机版:荟学智能](http://gateway-update.oss-cn-shanghai.aliyuncs.com/app-update/HuiXue_Phone_1.5.apk.1).
 
 
 ### Markdown
