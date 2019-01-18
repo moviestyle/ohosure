@@ -2,12 +2,12 @@
 
 下载：
 KNX系统：
-1.安卓手机版:OHOSURE(https://github.com/moviestyle/ohosure/edit/master/README.) 
-2.安卓PAD版:OHOSURE(https://github.com/moviestyle/ohosure/edit/master/README.) 
-3.IOS手机版:OHOSURE(https://github.com/moviestyle/ohosure/edit/master/README.) 
+1..[安卓手机版:OHOSURE].(https://github.com/moviestyle/ohosure/edit/master/README.) 
+2..[安卓PAD版:OHOSURE].(https://github.com/moviestyle/ohosure/edit/master/README.) 
+3..[IOS手机版:OHOSURE].(https://github.com/moviestyle/ohosure/edit/master/README.) 
 Zigbee系统:
-1.安卓手机版:荟学智能(https://github.com/moviestyle/ohosure/edit/master/README.) 
-2.iOS手机版:荟学智能(https://github.com/moviestyle/ohosure/edit/master/README.) 
+1..[安卓手机版:荟学智能].(https://github.com/moviestyle/ohosure/edit/master/README.) 
+2..[iOS手机版:荟学智能].(https://github.com/moviestyle/ohosure/edit/master/README.) 
 
 
 ### Markdown
