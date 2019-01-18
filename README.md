@@ -12,32 +12,36 @@ Zigbee系统:
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[TOC]
 
-```markdown
-Syntax highlighted code block
+#### Disabled options
 
-# Header 1
-## Header 2
-### Header 3
+- TeX (Based on KaTeX);
+- Emoji;
+- Task lists;
+- HTML tags decode;
+- Flowchart and Sequence Diagram;
 
-- Bulleted
-- List
+#### Editor.md directory
 
-1. Numbered
-2. List
+    editor.md/
+            lib/
+            css/
+            scss/
+            tests/
+            fonts/
+            images/
+            plugins/
+            examples/
+            languages/     
+            editormd.js
+            ...
 
-**Bold** and _Italic_ and `Code` text
+```html
+<!-- English -->
+<script src="../dist/js/languages/en.js"></script>
 
-[Link](url) and ![Image](src)
+<!-- 繁體中文 -->
+<script src="../dist/js/languages/zh-tw.js"></script>
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/moviestyle/ohosure/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
