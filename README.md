@@ -1,7 +1,7 @@
 ## 请用浏览器打开
 
-## 下载：
-## 有线KNX系统：
+## 点击下载：
+## KNX系统：
 #### 1.[安卓手机版:OHOSURE](https://gateway-update.oss-cn-shanghai.aliyuncs.com/app-update/HuiXue_Phone_1.5.apk).
 #### 2.[安卓PAD版:OHOSURE](https://gateway-update.oss-cn-shanghai.aliyuncs.com/app-update/HuiXue_Phone_1.5.apk).
 
