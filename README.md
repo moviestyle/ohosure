@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 请用浏览器打开
 
 ## 下载：
 ## 有线KNX系统：
