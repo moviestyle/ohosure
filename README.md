@@ -10,4 +10,5 @@
 #### 2.[安卓手机版:荟学智能V3](https://gateway-update.oss-cn-shanghai.aliyuncs.com/app-update/ohosure_3.0.0_release.apk).
 
 
-
+## 隐私协议:
+#### 1.[隐私协议](http://gateway-update.oss-cn-shanghai.aliyuncs.com/app-update/%E8%8D%9F%E5%AD%A6%E6%99%BA%E8%83%BDV2.apk).
