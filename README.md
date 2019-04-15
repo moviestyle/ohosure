@@ -11,4 +11,4 @@
 
 
 ## 隐私协议:
-#### 1.[隐私协议](http://gateway-update.oss-cn-shanghai.aliyuncs.com/app-update/%E8%8D%9F%E5%AD%A6%E6%99%BA%E8%83%BDV2.apk).
+#### 1.[隐私协议](https://raw.githubusercontent.com/moviestyle/ohosure/453021e54e62d93fbd4ac759b31986eaf7753bf8/privacy.md).
